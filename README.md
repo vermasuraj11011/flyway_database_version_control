@@ -97,3 +97,4 @@ mvn flyway:clean
 ## Resources
 - [Flyway docs](https://documentation.red-gate.com/fd?_ga=2.260545674.647223963.1695809865-886168606.1695809865)
 - [database-migrations-with-flyway](https://www.baeldung.com/database-migrations-with-flyway)
+- [Medium artical](https://medium.com/@astontechnologies/what-is-flyway-5199d2278a06)

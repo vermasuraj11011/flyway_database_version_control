@@ -68,9 +68,9 @@ eg: R__modifyColumn.sql
 ````
 
 ## Note
-* Once versioned script is executed we should not modify that script.
+* Once **versioned** script is executed we should **not modify** that script.
 * Create a new script file instead of modifying the current one.
-* If already know that the script can be modified in the future create a Repeatable script
+* If already know that the script can be modified in the future create a **Repeatable** script
 
 ## Important Commands:
 

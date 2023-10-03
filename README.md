@@ -67,6 +67,13 @@ R__<file_name>.sql
 eg: R__modifyColumn.sql
 ````
 
+### Undo Migration:
+
+````text
+U1__<file_name>.sql
+eg: U__modifyColumn.sql
+````
+
 ## Note
 * Once **versioned** script is executed we should **not modify** that script.
 * Create a new script file instead of modifying the current one.

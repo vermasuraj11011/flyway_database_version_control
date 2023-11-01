@@ -22,7 +22,7 @@ spring.jpa.hibernate.ddl-auto = none
 </plugin>
 ````
 
-* Add the flyway.config file in the rood directory of your project
+* Add the flyway.config file in the root directory of your project
 
 ````text
 flyway.user = <db_user_name>
